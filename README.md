@@ -8,7 +8,7 @@ Data from the paper: Strom, K., and A. Keyvani (2016). Flocculation in a decayin
 
 __Study type__
 - Location: laboratory
-- Sediment type: kaolinite and montmorillonite
+- Sediment type: kaolinite and chemically treated montmorillonite
 - Shearing devise: 13 L tank with paddle mixer
 - Floc size measurement method: images of turbulent suspension
 
