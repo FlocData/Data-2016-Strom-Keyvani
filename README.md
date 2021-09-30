@@ -4,7 +4,7 @@ All data in this repository is associated with the following paper:
 
 Data from the paper: Strom, K., and A. Keyvani (2016). Flocculation in a decaying shear field and its implications for mud removal in near-field river mouth discharges, *Journal of Geophysical Research: Oceans,* 121, 2142-2162. doi:[10.1002/2015JC011169](http://dx.doi.org/10.1002/2015JC011169).
 
-
+Dataset: [![DOI](https://zenodo.org/badge/399902261.svg)](https://zenodo.org/badge/latestdoi/399902261)
 
 __Study type__
 - Location: laboratory
